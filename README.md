@@ -1,1 +1,1 @@
-# sba-loan-approval-analysis-prediction
+# SBA-Loan-Approval-Analysis-Prediction
