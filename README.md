@@ -2,13 +2,13 @@
 
   An SBA (Small Business Administration) loan application will be granted or denied based on a variety of parameters, according to the SBA Loan Approval Analysis and Prediction model, a decision tree classifier. Loan amount, loan type, borrower race, and borrower gender were shown to be the most crucial factors in the model's 94.3% accuracy on the test dataset for predicting loan acceptance. The model can be used to guide future research in this field and offers insightful information about the elements that affect the acceptance of SBA loans. The model might not be able to forecast loan acceptance in all cases, and its accuracy might be affected by changes in the loan approval procedure over time.
 
-Dataset
+# Dataset
   The Small Business Administration (SBA) website provided a dataset with more than 2.1 million loan applications submitted between 2000 and 2014, which was used by the SBA Loan Approval Analysis and Prediction model. To make the dataset suitable for the machine learning model, preprocessing was done on it.
   Content: Shape of the data: 899164 rows and 27 columns
   https://www.kaggle.com/datasets/mirbektoktogaraev/should-this-loan-be-approved-or-denied
   ![image](https://github.com/RRacer17/sba-loan-approval-analysis-prediction/assets/89218464/a9c468a9-3245-48bb-af2b-594a34a69ed5)  
 
-Conclusion
+# Conclusion
   The SBA Loan Approval Analysis and Prediction project's findings were encouraging, and the model that was created showed strong accuracy, precision, recall, F1-score, and ROC AUC.
   A testing set was used to evaluate the model, and the results showed 94.6% accuracy, 94.8% precision, 96.0% recall, 95.4% F1-score, and 97.4% ROC AUC. According to these findings, the model may help financial institutions streamline their loan approval procedure, resulting in quicker and more effective decision-making.
 
